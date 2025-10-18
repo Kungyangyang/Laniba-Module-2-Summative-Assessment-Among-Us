@@ -4,6 +4,6 @@ Recreation of the Among Us Cafeteria Room
 
 =====
 Controls:
-> WASD - Movement
-> Left Mouse - Toggle Camera Movement
-> H - Hitbox Visualizers
+WASD - Movement
+Left Mouse - Toggle Camera Movement
+H - Hitbox Visualizers
